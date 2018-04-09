@@ -1,0 +1,10 @@
+C:\Users\danie\OneDrive - Centro Paula Souza - Etec\Projeto Agenda\Projeto Agenda\bin\Debug\Projeto Agenda.exe.config
+C:\Users\danie\OneDrive - Centro Paula Souza - Etec\Projeto Agenda\Projeto Agenda\bin\Debug\Projeto Agenda.exe
+C:\Users\danie\OneDrive - Centro Paula Souza - Etec\Projeto Agenda\Projeto Agenda\bin\Debug\Projeto Agenda.pdb
+C:\Users\danie\OneDrive - Centro Paula Souza - Etec\Projeto Agenda\Projeto Agenda\obj\x86\Debug\Projeto Agenda.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive - Centro Paula Souza - Etec\Projeto Agenda\Projeto Agenda\obj\x86\Debug\Projeto_Agenda.fmrContatosAgenda.resources
+C:\Users\danie\OneDrive - Centro Paula Souza - Etec\Projeto Agenda\Projeto Agenda\obj\x86\Debug\Projeto_Agenda.Properties.Resources.resources
+C:\Users\danie\OneDrive - Centro Paula Souza - Etec\Projeto Agenda\Projeto Agenda\obj\x86\Debug\Projeto Agenda.csproj.GenerateResource.Cache
+C:\Users\danie\OneDrive - Centro Paula Souza - Etec\Projeto Agenda\Projeto Agenda\obj\x86\Debug\Projeto Agenda.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive - Centro Paula Souza - Etec\Projeto Agenda\Projeto Agenda\obj\x86\Debug\Projeto Agenda.exe
+C:\Users\danie\OneDrive - Centro Paula Souza - Etec\Projeto Agenda\Projeto Agenda\obj\x86\Debug\Projeto Agenda.pdb
